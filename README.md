@@ -1,5 +1,5 @@
 # Virtual Assistant
-This is a virtual assistant made using JavaScript, HTMl and CSS styling. A user can connect and ask various questions, and the chat bot will try its best to answer.
+This is a virtual assistant made using JavaScript, HTML and CSS styling. A user can connect and ask various questions, and the chat bot will try its best to answer.
 
 ## Testing
 - Navigate to the 'api' directory and enter: ```npm i```
